@@ -7,7 +7,7 @@ I may not be a fascinating person, and that's why you will find me with my lapto
 ### More about me 
 
 - Writes technical blogs and tutorials on [Medium](https://akrsh24-srivastava.medium.com/).
-- Connect with me on [Github](https://github.com/akrsh24), [Linkedin](https://www.linkedin.com/in/akarsh-srivastava-409263105/) for any help, advise or suggestions related to anything.
+- Connect with me on [Github](https://github.com/akrsh24), [Linkedin](https://www.linkedin.com/in/akarsh-srivastava-409263105/) , [Codepen](https://codepen.io/akrsh24) for any help, advise or suggestions related to anything.
 - Drop me a mail at [akrsh24@gmail.com](akrsh24@gmail.com) .
 
 ### Languages/Tools
