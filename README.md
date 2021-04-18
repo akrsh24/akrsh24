@@ -8,6 +8,7 @@ I may not be a fascinating person, and that's why you will find me with my lapto
 
 - Writes technical blogs and tutorials on [Medium](https://akrsh24-srivastava.medium.com/).
 - Connect with me on [Github](https://github.com/akrsh24), [Linkedin](https://www.linkedin.com/in/akarsh-srivastava-409263105/) , [Codepen](https://codepen.io/akrsh24) for any help, advise or suggestions related to anything.
+- Checkout my answers on [StackOverflow](https://stackoverflow.com/users/8181377/akarsh-srivastava).
 - Drop me a mail at [akrsh24@gmail.com](akrsh24@gmail.com) .
 
 ### Languages/Tools
