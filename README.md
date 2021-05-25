@@ -18,9 +18,11 @@ I may not be a fascinating person, and that's why you will find me with my lapto
 
 ### Highlights
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrsh24&layout=compact&show_icons=true&theme=calm)](https://github.com/akrsh24/github-readme-stats)
+
 ![Akarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrsh24&count_private=true&show_icons=true&theme=calm)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrsh24&layout=compact&show_icons=true&theme=calm)](https://github.com/akrsh24/github-readme-stats)
+
 
 
