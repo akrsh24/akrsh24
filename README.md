@@ -15,6 +15,9 @@ I may not be a fascinating person, and that's why you will find me with my lapto
 
 ![](https://github.com/akrsh24/React-Redux-Medium/blob/master/react-with-redux/Tech-stack.png?raw=true)
 
+### Github Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=akrsh24)](https://github.com/akrsh24/github-profile-trophy)
 
 ### Highlights
 
