@@ -11,6 +11,8 @@ I may not be a fascinating person, and that's why you will find me with my lapto
 - Checkout my answers on [StackOverflow](https://stackoverflow.com/users/8181377/akarsh-srivastava).
 - Drop me a mail at [akrsh24@gmail.com](akrsh24@gmail.com) .
 
+### Visitor Number : ![](https://komarev.com/ghpvc/?username=akrsh24)
+
 ### Languages/Tools
 
 ![](https://github.com/akrsh24/React-Redux-Medium/blob/master/react-with-redux/Tech-stack.png?raw=true)
