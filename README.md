@@ -1,6 +1,6 @@
 ### Hi there Geeks👋
 
-I'm [Akarsh Srivastava](https://akrsh24.github.io/portfolio/), from India. Currently working with [PublicisSapient](https://www.publicissapient.com/) as Frontend Developer. 
+I'm [Akarsh Srivastava](https://akrsh24.github.io/portfolio/), from India. Currently working as Senior Software Frontend Developer. 
 
 I may not be a fascinating person, and that's why you will find me with my laptop even in my free time. I like to build things from scratch, as it gives me the flexibility to think and develop. Finally, after working for more than two years and switching between different languages, I found my interest in Frontend Engineering. May this love and interest prevail till eternity.
 
